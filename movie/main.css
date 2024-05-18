@@ -1,0 +1,20 @@
+* {
+    font-family: "Jua", sans-serif;;
+}
+body {
+    background-color: #333;
+}
+#jumbotron {
+    margin-top: 30px;
+    text-align: center;
+    background-color: #fff;
+    padding: 40px;
+}
+
+#review-button {
+    width: 100%;
+}
+
+#movie-list {
+    margin-top: 30px;
+}
